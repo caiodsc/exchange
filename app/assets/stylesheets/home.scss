@@ -22,5 +22,9 @@ body {
   .logo-box{
     margin: 0 auto;
     padding-bottom: 10px;
+    .img_responsive {
+      width: 100px;
+    }
   }
+
 }
